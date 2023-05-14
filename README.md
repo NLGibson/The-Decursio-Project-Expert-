@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # Modpack
 
-[![Name](https://img.shields.io/badge/CurseForge-Name-F16436)](https://www.curseforge.com/minecraft/modpacks/projectName)
+[![Name](https://img.shields.io/badge/CurseForge-Name-F16436)](https://www.curseforge.com/minecraft/modpacks/decursio-project)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue)](https://github.com/ShaBaiTianCN/Modpack/blob/master/LICENSE)
 [![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/Modpack/total?label=Downloads)](https://github.com/ShaBaiTianCN/Modpack/releases)
 [![Release](https://shields.io/github/v/release/ShaBaiTianCN/Modpack?display_name=tag&include_prereleases&label=Release)](https://github.com/ShaBaiTianCN/Modpack/releases/latest)
