@@ -1,20 +1,15 @@
 <!-- markdownlint-disable MD033 -->
 # Modpack
 
-[![Name](https://img.shields.io/badge/CurseForge-thedecursioproject%20expert-F16436)](https://www.curseforge.com/minecraft/modpacks/decursio-project)
+[![Name](https://img.shields.io/badge/CurseForge-The%20Decursio%20Project%20Expert-F16436)](https://www.curseforge.com/minecraft/modpacks/decursio-project)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue)](https://github.com/ShaBaiTianCN/Modpack/blob/master/LICENSE)
 [![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/Modpack/total?label=Downloads)](https://github.com/ShaBaiTianCN/Modpack/releases)
 [![Release](https://shields.io/github/v/release/ShaBaiTianCN/Modpack?display_name=tag&include_prereleases&label=Release)](https://github.com/ShaBaiTianCN/Modpack/releases/latest)
 
 ## 仓库说明
 
-这里是 Modpack 整合包简体中文汉化仓库。
+这里是The Decursio Project - Expert简体中文汉化仓库。里面包括任务和部分物品的汉化，如果有翻译错误，欢迎指出。
 
-## 作者
-
-## 安装
-
-![汉化补丁食用说明](汉化补丁食用说明.jpg)
 
 ## 许可
 
