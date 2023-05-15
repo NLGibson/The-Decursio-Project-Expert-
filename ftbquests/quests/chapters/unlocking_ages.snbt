@@ -1,0 +1,169 @@
+{
+	id: "6EA69D6810891BD8"
+	group: "38E0BE3B64EF67A2"
+	order_index: 1
+	filename: "unlocking_ages"
+	title: "解锁纪元"
+	icon: "minecraft:diamond_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "第一纪元"
+			icon: "minecraft:cobblestone"
+			x: -2.0d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "专注于对周围的探索和常见资源的收集：为了完成这一纪元，你得炼制钢和一把死神镰刀。并且，你必须要击败凋零"
+			dependencies: ["430FADD2ACF0EE6F"]
+			id: "3073595C53701173"
+			tasks: [{
+				id: "1913953B0303C3BA"
+				type: "checkmark"
+				title: "你已经准备好了。"
+			}]
+			rewards: [{
+				id: "304CCC9B3B75EE88"
+				type: "custom"
+				title: "征服第一纪元！"
+				icon: {
+					id: "botania:cosmetic_questgiver_mark"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "第二纪元"
+			icon: "create:gearbox"
+			x: -0.5d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "专注最初的自动化：为了完成这一纪元，你得制作石油焦和泰拉钢。并且你必须要打败暮色恶魂和一位法老"
+			dependencies: [
+				"3073595C53701173"
+				"031023A8EA6FD4D0"
+				"35A42F33FE263878"
+				"1BD61910AB0290E3"
+			]
+			id: "40205D351BE13B77"
+			tasks: [{
+				id: "4F7815B7477404F3"
+				type: "checkmark"
+				title: "你已经准备好了。"
+			}]
+			rewards: [{
+				id: "0C22A7876B4BAC9C"
+				type: "custom"
+				title: "征服第二纪元！"
+				icon: {
+					id: "botania:cosmetic_questgiver_mark"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "第三纪元"
+			icon: {
+				id: "thermal:energy_cell"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						EnergyMax: 1000000
+						EnergySend: 1000
+						Energy: 0
+						EnergyRecv: 1000
+					}
+				}
+			}
+			x: 1.0d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "专注于高级的自动化，探索和表现力：为了完成完成这一纪元，你得制作一个破碎的奇点并且学会怎么运用植物学符文仪式。并且，你必须要击败末影龙"
+			dependencies: [
+				"40205D351BE13B77"
+				"37239ADFDD7A7A86"
+				"3A5628BD9FC57446"
+				"111B86AE41B02D70"
+				"19636F8D83618C41"
+			]
+			id: "7EF155944458998F"
+			tasks: [{
+				id: "66CF1840F534EE0D"
+				type: "checkmark"
+				title: "你已经准备好了。"
+			}]
+			rewards: [{
+				id: "737ECE941245B6C3"
+				type: "custom"
+				title: "征服第三纪元！"
+				icon: {
+					id: "botania:cosmetic_questgiver_mark"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "The 4th Age"
+			icon: "extendedcrafting:compressor"
+			x: 2.5d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: 专注于更高级的资源的操作和量产：为了完成这一纪元，你得制作一个无尽锭a和一份红物质。并且，你必须要击败混沌守卫"
+			dependencies: [
+				"7EF155944458998F"
+				"01454647A04025DA"
+				"2EEF99F90F1D8B37"
+				"6987496DAC648CAC"
+				"7C04B7C2DDAB717B"
+			]
+			id: "78ECF24A2D1EB21A"
+			tasks: [{
+				id: "00C3DAD62F26E851"
+				type: "checkmark"
+				title: "你已经准备好了。"
+			}]
+			rewards: [{
+				id: "791A03C346152ABF"
+				type: "custom"
+				title: "征服第四纪元！"
+				icon: {
+					id: "botania:cosmetic_questgiver_mark"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "终局"
+			icon: "create:creative_motor"
+			x: 4.0d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "专注于制作创造物品：获得列出的每一个创造物品来完成这个整合包。祝君好运！"
+			dependencies: [
+				"78ECF24A2D1EB21A"
+				"6194483D67F13589"
+				"012BA0505E1EEA5D"
+			]
+			id: "466242CC140468C5"
+			tasks: [{
+				id: "411DA532A190139C"
+				type: "checkmark"
+				title: "你已经准备好了。"
+			}]
+			rewards: [{
+				id: "12B8B9C6FC5AD648"
+				type: "custom"
+				title: "征服终局！"
+				icon: {
+					id: "botania:cosmetic_questgiver_mark"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+	]
+}
